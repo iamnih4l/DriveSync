@@ -1,4 +1,4 @@
-# 🚘 DriveSync — Anti-Distracted Driving System Integration  
+# 🚘 DriveSync — Anti-Distraction Driving System Integration  
 
 ## 📖 Overview  
 **DriveSync** is an AI-powered **anti-distracted driving system** that prevents mobile phone distractions by integrating smartphone sensors, real-time AI motion detection, and secure vehicle communication.  
