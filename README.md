@@ -39,18 +39,6 @@ DriveSync transforms your smartphone into a **guardian and digital co-pilot**, k
 - Transparent data control — users decide what is stored or shared.  
 - Built under **NASA-level cybersecurity and reliability** principles.  
 
----
-
-## 🧩 DriveSync Ecosystem  
-
-<p align="center">
-  <img src="assets/drive_sync_ecosystem.png" alt="DriveSync Ecosystem Graph" width="700">
-</p>
-
-This graph shows the main DriveSync components and their interactions —  
-**Smartphone App**, **Vehicle System/ECU**, **Cloud Server**, **Insurance API**, **Driver**, and **Regulators** — all connected through secure data exchange and AI-powered decision systems.  
-
----
 
 ## 🧠 Technology Stack  
 
@@ -95,12 +83,6 @@ DriveSync follows **NASA JPL and Caltech Engineering Protocols**:
 
 ## 🧾 License  
 This project is licensed under the **MIT License** — free for academic, non-commercial, and research use.
-
----
-
-## 👥 Contributors  
-- **Mohammed Nihal** – Project Lead & System Architect  
-- [Add your teammates or collaborators here]  
 
 ---
 
